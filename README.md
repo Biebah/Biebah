@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Biebah
-- 👀 I’m interested in being a top notch UI/UX DESIGNER
-- 🌱 I’m currently learning UI/UX designs
+- 👋 Hi, I’m Amoo Abeebat, I prefer to be called Habeebah
+- 👀 I’m a UI/UX designer with a year of experience in User-Centered Designs
+- 🌱 I’m aspiring to be a Front-End Developer
 - 📫 How to reach me amooabeebat0@gmail.com
 
 <!---
